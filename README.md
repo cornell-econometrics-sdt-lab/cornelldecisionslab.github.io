@@ -1,2 +1,2 @@
-# cornell.econometricslab.github.io
+# cornell-econometrics-lab.github.io
 Cornell Econometrics Lab website.
