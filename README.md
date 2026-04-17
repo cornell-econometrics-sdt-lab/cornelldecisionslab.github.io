@@ -1,2 +1,2 @@
-# cornell-econometrics-lab.github.io
-Cornell Econometrics Lab website.
+# cornelldecisions.github.io
+Cornell Econometrics & Statistical Decision Theory Lab website.
